@@ -142,13 +142,7 @@ Calcul natif bloque
 
 # Logs Logcat
 
-Filtre utilisé :
 
-```text
-ANTI_DEBUG
-```
-
-Exemples :
 
 ```text
 Aucun trace/debug detecte via ptrace
