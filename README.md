@@ -198,7 +198,7 @@ https://github.com/user-attachments/assets/46be0a21-9204-48e2-a505-cc9b8c86cb89
 
 # Auteur
 
-Ella Vanessa MUGISHA
+ASSEKNOUR Sana
 
-1ère année — Génie Cyberdéfense et Systèmes de Télécommunications Embarquées  
+4ème année — Génie Cyberdéfense et Systèmes de Télécommunications 
 ENSA Marrakech
